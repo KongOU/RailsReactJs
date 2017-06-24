@@ -14,7 +14,6 @@ gem 'jbuilder', '~> 2.0'
 gem 'thor', '0.19.1'
 gem 'ancestry'
 gem 'rails_admin'
-gem 'turbolinks'
 
 group :development, :test do
   gem 'byebug'
